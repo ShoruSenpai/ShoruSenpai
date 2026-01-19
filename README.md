@@ -7,19 +7,20 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+  <img src="https://count.getloli.com/@:ShoruSenpai?theme=minecraft&padding=6&offset=1&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShoruSenpai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShoruSenpai&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoruSenpai&theme=tokyo-night&radius=16&area=true&hide_border=true&hide_title=true" height="240" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img align="right" height="110" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTByempjOHF3bjZsamFqdGc3ZHZ5ZHl3b2ltM3VrY2ZlOTNzdDV2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nA3YwDA8fZzBuQKOwo/giphy.gif"  />
+<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTByempjOHF3bjZsamFqdGc3ZHZ5ZHl3b2ltM3VrY2ZlOTNzdDV2dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nA3YwDA8fZzBuQKOwo/giphy.gif"  />
 
 ###
 
@@ -70,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShoruSenpai/ShoruSenpai/output/snake.svg" alt="Snake animation" />
 
 ###
 
